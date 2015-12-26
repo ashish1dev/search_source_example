@@ -1,2 +1,3 @@
 # search_source_example
-A demo of search source meteor package
+Build a meteor packages searching app using search source package.
+It shows no result when search text field is blank. 
